@@ -43,7 +43,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 <hr>
 
 ## Jobs and Internships
-<i>See my [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)</i>
+<i>See my [LinkedIn]www.linkedin.com/in/tessa-klein</i>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
@@ -69,7 +69,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
        <li>PowerBI</li>
-        <li>Trello</li>
+        <li>Alteryx</li>
       </ul>
     </td>
     <td>
@@ -98,8 +98,8 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
    </td>
    <td>
      <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
+        <li>Mentor</li>
+        <li>Creativity</li>
        <li>Problem Solving</li>
      </ul>
    </td>
