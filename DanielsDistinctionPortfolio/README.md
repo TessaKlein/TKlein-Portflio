@@ -37,7 +37,7 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 
 
 
-<a name="Writing"></a>
+<a name="Academic Time Off"></a>
 ### Academic Time Off 
 #### Experience
 <i>Fall 2023- Winter 2024</i>
@@ -47,19 +47,12 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 
 
 
-  
+ 
 
 
-
-## Technical Knowledge
-[<img src="https://user-images.githubusercontent.com/91146906/160903916-f1121ac9-ebfc-480a-9dc7-852b33104701.svg" height="35"/>](#SVVSD)
-[<img src="https://user-images.githubusercontent.com/91146906/160903984-a2bcca0a-7e91-4856-93b2-c97e60528097.svg" height="35"/>](#OLTP)
-[<img src="https://user-images.githubusercontent.com/91146906/160904040-9abe5b2d-e2a0-4f4c-a7b6-c911305bcbd8.svg" height="35"/>](#OLAP)
-[<img src="https://user-images.githubusercontent.com/91146906/160904098-dc1cb242-8a59-4691-bf4d-17c118dbfd62.svg" height="35"/>](#VBA)
-
-<a name="SVVSD"></a>
+<a name="Otolaryngology Associates"></a>
 ### Internship: Otolaryngology Associates - Accounting Department
-<i>Summer 2019, Summer 2020, Summer 2021</i>
+<i>Summer 2022</i>
 <br>
 <br>The summer of 2022, I was an intern at Otolaryngology Associates, a private practice in Carmel, Indiana. I worked under the accounting department and I learned a great deal about my time there. During my accounting internship at Otolaryngology Associates, I took ownership of a data analysis project focused on streamlining records retention and data workflow. After receiving the conceptual framework and an introduction to the relevant systems, I worked independently while maintaining regular check-ins to discuss progress and address challenges.
 <br>
