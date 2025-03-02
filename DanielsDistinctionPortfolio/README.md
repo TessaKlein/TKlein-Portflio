@@ -4,7 +4,7 @@
 <hr>
 
 # Daniels Distinction Portfolio
-<i>Hannah McDonald – April 2022 – Business Analytics</i>
+<i>Tessa Klein – June 2025 – Business Analytics</i>
 <br><br>
 Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate experiences and work at the University of Denver!
 <br><br>
@@ -27,58 +27,10 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 ### Microsoft Office Certification Program
 <i>Fall 2019 - Spring 2022</i>
 <br>
-<br>The Daniels College of Business offers a Microsoft Office Certification Program that teaches Advanced Excel, Excel, Word, and PowerPoint classes, preparing students to pass the certification exams for each of these programs and to apply these skills in their classwork and professional work. After completing the classes and certification exams myself, I applied for a position as a Junior TA with the program, and I quickly advanced to teaching my own classes and then managing the program. My quick advancement came with many personal reservations about whether I was ready to fill those roles. Nonetheless, I pursued the opportunities, recognizing others saw my potential and knowing my own drive and ability to learn, adapt, and meet challenges. By doing so, I developed countless valuable skills and made a positive impact on my students and team.
+<br>The Daniels College of Business offers a Microsoft Office Certification Program that teaches Advanced Excel, Excel, Word, and PowerPoint classes, preparing students to pass the certification exams for each of these programs and to apply these skills in their classwork and professional work. After completing the classes and certification exams myself, I continued to utilize and expand upon these skills throughout my time at DU. My favorite part, was completing and receving a high score on my advanced certification exam for Excel, that was not required. I continued to help others throughout the course and developed mentoring relationships through this. Advancing in my major, I am grateful I took time to establish those skills. 
 <br>
-<br>In my time managing the program as TA Coordinator, we have faced numerous challenges, including being fully remote for a year, onboarding almost an entirely new team while returning to in-person learning, having limited staff, and adapting to constant changes due to the COVID-19 pandemic and other factors. To best prepare our team for these challenges, I updated all our program materials, developed a robust onboarding program, and facilitated ongoing training through a series of workshops. Further, I taught an Excel class to a group of 80 students—a class size never seen before in Daniels. Despite these challenges, we saw incredibly high student pass rates on the certification exams, resulting from the development of a strong TA team. 
-<br>
-<br>The opportunities I have received and work I have done with this program facilitated immense personal and professional growth. I developed skills in public speaking, teaching, facilitating, mentoring, managing, and driving growth. Further, I learned my resilience and adaptability in navigating uncertainty and challenges. With all this, the most rewarding aspect of my role is seeing the growth and success of those around me, including students and my team.  
 
-<details>
-<summary><i><b>See what I did in my role!</b></i></summary>
-    <br>
-  <table>
-    <tr>
-      <td>
-        <b>Hiring and Onboarding:</b> I had the opportunity to participate in the hiring process for our team, including creating application and interview questions, reviewing applications, and conducting interviews. Through this process, I learned how to identify candidates that will add value to our team, and it helped me understand the hiring process from an employer's perspective, giving me insight for my own job search process. In writing interview and application questions and making hiring decisions, I regularly checked myself for unconscious biases and influences, ensuring the best decisions were made. After hiring, I developed an onboarding program to prepare our new team members for success and facilitated the three-day training.      
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Training and Development:</b> To promote our team's continued learning, I proposed and implemented ongoing development through regular meetings and workshops. These workshops include expanding technical skills, developing teaching skills, promoting personal growth, and facilitating team cohesion. In planning these workshops and activities, I identified our team's needs and growth areas, often by asking team members, and I took the appropriate steps to bring those learnings to them. In some instances, this entailed partnering with other departments on campus to bring trainings to our team, such as those on supporting mental health, teaching and facilitating, connecting across worldviews, and responding to microagressions. Other times, I developed trainings from my own ongoing learning, such as those on teaching methodologies and techniques, giving and receiving feedback, and personal narratives and limiting beliefs. Additionally, I developed a variety of activities surrounding reflection, goal setting, and feedback implementation.
-          <br><br><blockquote>Developing these trainings challenged me to continue expanding my own skill set, as I educated myself on a variety of topics and brought a selection of those back to my team. In doing this, I learned to transform my own learning into engaging activities from which my team could also learn. Further, I gained facilitation skills, particularly in promoting meaningful conversation. Beyond this, I practiced networking in finding people with knowledge beyond my own to supplement our team's growth.</blockquote>
-          <i>See a sample of the "<a href="../DanielsDistinctionPortfolio/AdvancedTeachingTechniques-Questioning.pdf">Advanced Teaching Techniques: Questioning</a>" workshop I developed.</i>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Developing Curriculum and Teaching:</b> To prepare students for the certification exams and to equip them with valuable skills for their classwork and professional work, I regularly evaluated our curriculum and made the appropriate modifications. Doing so helped me develop skills in the methodologies of teaching–when to introduce concepts, how material builds on itself, the role of review, and more. Teaching this material further expanded my skill set, particularly in adapting to student needs, troubleshooting issues, managing a classroom, public speaking, and defusing tense situations. Often, class would not go exactly as planned, and I shift accordingly. Further, I gained experience in fairly supporting and accommodating students, particularly with the stressors of the COVID-19 pandemic. Teaching is incredibly rewarding–seeing students' "lightbulb" or "that's so cool" moments will always be one of my favorites.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Operations:</b> My goal has always been to maximize time spent supporing students and TAs and growing the program, which means minimizing time spent on administrative work. To accomplish that, I sought to streamline processes and communications and eliminate repetitive work. One example of this is the VBA code I wrote to automate a frequent task, allowing time and efforts to be focused elsewhere and serving as an opportunity to expand my coding skills. Another example is reviewing and modifying all communications to ensure they are clear and concise, eliminating confusion and excessive communication.  
-      </td>
-    </tr>
-<tr>
-      <td>
-        <b>Management:</b> Management can be challenging, particularly in the last two years with the uncertainty and stressors of the COVID-19 pandemic. Being in a management role during this time, I learned how to balance the needs of the program with the needs of our people. I often shifted plans as new challenges surfaced, and I did so while prioritizing our people. Further, I learned to make tough decisions and to have tough conversations. Through this, I realized my resilience and adaptability: I rose to the challege each time (and there were a lot of times) and saw successes more often than not. When there was not an initial success, I learned and adjusted going forward. Despite the challenges, I found management highly rewarding, and I really enjoy working with people in that capacity. 
-      </td>
-    </tr>
-  </table>
-</details>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160252055-791d54af-06ed-4df9-acc4-2d56d2727418.jpg" height="460">
-      <br><i>Team Bowling Night Winter 2022</i>
-      </td>
-  </tr>
-</table>
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="DAT"></a>
+ 
 ### Daniels Ambassador Team
 <i>Fall 2019 - Winter 2022</i>
 <br>
