@@ -56,11 +56,11 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
     </td>
     <td>
      <ul>
-        <li><a href = "https://www.credly.com/badges/e654fce3-19be-40b3-9347-228eea2ce3a1/public_url">Microsoft Expert Access 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
-       <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/6a4c6dcd-14bc-400c-aac2-c75ddce0066b">Microsoft Office Specialist: Excel Associate 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/50c68bce-02a6-4a78-b649-c728c9d39745">Microsoft Expert Excel 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/6d9cc146-9be4-40db-a174-2a8ac05e448c">Microsoft Expert Word 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/c395d865-d559-4f41-8d42-0a22d7e7a62c">Microsoft Associate PowerPoint 2019</a></li>
+       <li><a href = "https://www.credly.com/badges/f4d1fccb-2c8c-44a7-997c-d909c1728a10">Microsoft Associate Outlook 2019</a></li>
       </ul>
     </td>
   </tr>
