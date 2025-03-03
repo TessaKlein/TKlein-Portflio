@@ -46,7 +46,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
         <li>Visual Basic</li>
         <li>Python</li>
         <li>R</li>
-        <li>Excel</li>
+        <li>Advanced Excel</li>
         <li>Microsoft SQL Server Management Studio</li>
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
@@ -65,15 +65,15 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
     </td>
   </tr>
   <tr>
-    <th>CliftonStrengths</th>
+    <th>Strengths</th>
     <th>Other Skills</th>
  </tr>
  <tr>
    <td>
      <ol>
         <li>Learner</li>
-        <li>Responsibility</li>
-        <li>Achiever</li>
+        <li>Perserverance</li>
+        <li>Grit</li>
         <li>Discipline</li>
         <li>Intellection</li>
      </ol>
@@ -83,6 +83,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
         <li>Mentor</li>
         <li>Creativity</li>
        <li>Problem Solving</li>
+       <li>Empathetic</li>
      </ul>
    </td>
  </tr>
