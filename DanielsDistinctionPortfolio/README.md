@@ -9,10 +9,9 @@
 Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate experiences and work at the University of Denver!
 <br><br>
 [<img src="https://user-images.githubusercontent.com/91146906/160904313-d3515906-abf0-4f63-9a9c-c8dcdb80c446.svg" height="35"/>](#CommunucationInterpersonal)
-[<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#CommunityLeadership)
+[<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#Internships)
 [<img src="https://user-images.githubusercontent.com/91146906/152072049-ab7d3102-eb2e-4f8b-983e-be3783806f87.svg" height="35"/>](#Technical)
-[<img src="https://user-images.githubusercontent.com/91146906/161411069-5a6c5a81-e2e7-4c39-a687-f8aa95f23ce6.svg" height="35"/>](#Global)
-[<img src="https://user-images.githubusercontent.com/91146906/162367305-5589f7ee-e667-468e-9548-4ee401f7f683.svg" height="35"/>](#Ethics)
+[<img src="https://user-images.githubusercontent.com/91146906/161411069-5a6c5a81-e2e7-4c39-a687-f8aa95f23ce6.svg" height="35"/>](#Acadmic Work)
 [<img src="https://user-images.githubusercontent.com/91146906/162367370-96cd19ed-02c8-4511-86d6-1cc358e56458.svg" height="35"/>](#Fun)
 
 <a name="CommunucationInterpersonal"></a>
@@ -63,6 +62,31 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 <i> Summer 2023 </i>
 <br>
 <br> During my time at Insider LLC in New York City, I worked for a private concierge company that specialized in working with high profile clientel to deliver time-sensitive projects based on the clients needs and desires. I applied my knowledge from my Data Warehouse and Business Intelligence course to work with Salesforce databases, optimizing workflows and improving data managment efficiency. I customized the Salesforce database to enhance operational processes, ensuring streamlined access to critical client information. My role involved organizing and processing essential client documents, which facilitated better data strucuring and retrieval. By leveraging my experience in SQL and business intelligence, I contributed to refining the database structure, supporting reporting needs, and improving overall data integrity within the organization. This experience reinforced my technical skills and deepened my understanding of database managment in a business setting. It also strengthened my time managment skills as I had to deliver and present in a timely manner to the clients. 
+
+<a name="Complex Data Analytics"></a>
+### Complex Data Analytics
+<i>Winter 2025 </i>
+<br>
+<br>In my Complex Data Analytics class, I am currently working on a sentiment analysis project, leveraging advanced data processing techniques to extract and analyze emotions and opinions from textual data. This involves using natural language processing methods to classify sentiments as positive, negative, or neutral, allowing for deeper insights into trends, customer feedback, or public perception. Through this project, I am gaining hands on experience with machine learning models, data preprocessing, and text mining, enhancing my ability to work with unstructured data. Additionally, I am learning to interpret and visualize sentiment trends, ensuring data-driven decision making. This experience is strengthening my analytical skills, technical proficiency in tools like Python and sentiment analysis libraries, and my ability to translate raw data into actionale insights- an essential skill in business intelligence and strategic decision making. 
+<br>
+
+<a name="Optimization Class"></a>
+### Optimization Class
+<i>Winter 2025 </i>
+<br>In my optimization Data Analytics class, I am working on applying mathematical modeling and algorithmic technqiues to solve complex decision-making problems. This involves utilizing linear programming, integer programming, and other optimization methods to maximize efficiency and minimize costs in real-world business scenarios. Through hands-on projects, I am learning to formulate optimization problems, implement solutions using tools like Python, Excel Solver, and GoogleColab, and interpret results to drive strategic decisions. Additionally, I am developing skills in contratint managment, senstivitiy analysis, and scneario testing, which are essential for making data-driven recommendations in dynamic environments. This course is strengthing my ability to approach problems systematically, improve resource allocation, and enahance decision-making processes, preparing me for real-world applications in business analytics, supply chain managment, and financial modeling. 
+
+## Global and Intercultural Competence
+<i> Fall 2022</i>
+<br> During my semester abroad in Prague, Czech Republic, I had the incredible opportunity to immerse myself in a new culture while expanding my global perspective. Living in Prague allowed me to experience its rich history, vibrant architecture, and diverse international community, all while continuing my academic studies. Beyond my time in the Czech Republic, I traveled to 10 other countries, exploring different cultures, customs, and ways of life across Europe. This experience strengthened my adaptability, problem-solving skills, and ability to navigate unfamilar environments with confidence. I also expanded my fluency with Spanish and continued to learn the Czech language. Traveling extensively while balancing coursework taught me invaluable time managment and organizational skills, while also broadening my worldview. Engaging with diverse perspectives deepend my appreciation for cultural differences and enhanced my ability to communicate and collaborate across backgrounds. This transformative experience not only enriched my education but also developed my independence, resilience, and global awareness-qualities that will continue to shape my personal and professional growth. 
+
+<a name="EBC"></a>
+### Ethics Bootcamp
+<i>Winter 2020</i>
+<br>
+<br>As part of my Ethics and Legal Studies class, I had the opportunity to partake in Ethics Bootcamp, where I attended a variety of sessions surrounding ethics and the Daniels Fund Ethics Initiative Principles (integrity, trust, accountability, transparency, fairness, respect, rule of law, and viability).
+
+<br>Ethics Bootcamp was a rewarding and inspiring experience in collaborating with my peers to consider the role of ethics in our daily lives, and the key takeaways continue to resonate with me in the work I do and decisions I make.
+
 <details>
 <summary><i><b>See the projects I did!</b></i></summary>
     <br>
@@ -100,32 +124,25 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 ### Complex Data Analytics
 <i>Winter 2025 </i>
 <br>
-<br>In my Complex Data Analytics class, I am currently working on a sentiment analysis project, leveraging advanced data processing techniques to extract and analyze emotions and opinions from textual data. This involves using natural language processing methods to classify sentiments as positive, negative, or neutral, allowing for deeper insights into trends, customer feedback, or public perception. Through this project, I am gaining hands on experience with machine learning models, data preprocessing, and text mining, enhancing my ability to work with unstructured data. Additionally, I am learning to interpret and visualize sentiment trends, ensuring data-driven decision making. This experience is strengthening my analytical skills, technical proficiency in tools like Python and sentiment analysis libraries, and my ability to translate raw data into actionale insights- an essential skill in business intelligence and strategic decision making. 
+<br> INPUT PROJECT HERE ONCE FINISHED. In my Complex Data Analytics class, I am currently working on a sentiment analysis project, leveraging advanced data processing techniques to extract and analyze emotions and opinions from textual data. This involves using natural language processing methods to classify sentiments as positive, negative, or neutral, allowing for deeper insights into trends, customer feedback, or public perception. Through this project, I am gaining hands on experience with machine learning models, data preprocessing, and text mining, enhancing my ability to work with unstructured data. Additionally, I am learning to interpret and visualize sentiment trends, ensuring data-driven decision making. This experience is strengthening my analytical skills, technical proficiency in tools like Python and sentiment analysis libraries, and my ability to translate raw data into actionale insights- an essential skill in business intelligence and strategic decision making. 
 <br>
 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
-### Complex Data Analytics
+### Optimization Class
 <i>Winter 2025 </i>
-<br>In my optimization Data Analytics class, I am working on applying mathematical modeling and algorithmic technqiues to solve complex decision-making problems. This involves utilizing linear programming, integer programming, and other optimization methods to maximize efficiency and minimize costs in real-world business scenarios. Through hands-on projects, I am learning to formulate optimization problems, implement solutions using tools like Python, Excel Solver, and GoogleColab, and interpret results to drive strategic decisions. Additionally, I am developing skills in contratint managment, senstivitiy analysis, and scneario testing, which are essential for making data-driven recommendations in dynamic environments. This course is strengthing my ability to approach problems systematically, improve resource allocation, and enahance decision-making processes, preparing me for real-world applications in business analytics, supply chain managment, and financial modeling. 
-
-## Global and Intercultural Competence
-<i> Fall 2022</i>
-<br> During my semester abroad in Prague, Czech Republic, I had the incredible opportunity to immerse myself in a new culture while expanding my global perspective. Living in Prague allowed me to experience its rich history, vibrant architecture, and diverse international community, all while continuing my academic studies. Beyond my time in the Czech Republic, I traveled to 10 other countries, exploring different cultures, customs, and ways of life across Europe. This experience strengthened my adaptability, problem-solving skills, and ability to navigate unfamilar environments with confidence. I also expanded my fluency with Spanish and continued to learn the Czech language. Traveling extensively while balancing coursework taught me invaluable time managment and organizational skills, while also broadening my worldview. Engaging with diverse perspectives deepend my appreciation for cultural differences and enhanced my ability to communicate and collaborate across backgrounds. This transformative experience not only enriched my education but also developed my independence, resilience, and global awareness-qualities that will continue to shape my personal and professional growth. 
-
-
-## Ethics
+<br> INPUT PROJECT HERE ONCE FINISHED: In my optimization Data Analytics class, I am working on applying mathematical modeling and algorithmic technqiues to solve complex decision-making problems. This involves utilizing linear programming, integer programming, and other optimization methods to maximize efficiency and minimize costs in real-world business scenarios. Through hands-on projects, I am learning to formulate optimization problems, implement solutions using tools like Python, Excel Solver, and GoogleColab, and interpret results to drive strategic decisions. Additionally, I am developing skills in contratint managment, senstivitiy analysis, and scneario testing, which are essential for making data-driven recommendations in dynamic environments. This course is strengthing my ability to approach problems systematically, improve resource allocation, and enahance decision-making processes, preparing me for real-world applications in business analytics, supply chain managment, and financial modeling. 
 
 
 <a name="EBC"></a>
-### Ethics Bootcamp
-<i>Winter 2020</i>
+### Ethics In Entreprenuership
+<i>Winter 2024</i>
 <br>
-<br>As part of my Ethics and Legal Studies class, I had the opportunity to partake in Ethics Bootcamp, where I attended a variety of sessions surrounding ethics and the Daniels Fund Ethics Initiative Principles (integrity, trust, accountability, transparency, fairness, respect, rule of law, and viability).
+<br>During a sprint focused on ethics in entrepreneurship, I explored key ethical frameworks, including deontolog, utilitarianism, and virtue ethics, and how entrepreneurs apply these principles in decision-making. Deontology, emphasizing duty and rules, highlighted the importance of adhering to ethical obligations regardless of consequences- essential in maintaining integrity in business practices. Utilitarianism, which prioritizes the greatest good for the greatest number, demonstrated how entrepreneurs weigh costs and benefits to ensure their actions positively impact stakeholders. Virtue ethics, centered on character and moral virtues, reinforced the role of personal integrity and long-term ethical leadership in entrepreneurship. Through real-world case studies and discussions, I gained insights into how successful entrepreneurs integrate these ethical principles into their business strategies, balancing profitability with social responsibility and ethical decision-making.
 
-<br>Ethics Bootcamp was a rewarding and inspiring experience in collaborating with my peers to consider the role of ethics in our daily lives, and the key takeaways continue to resonate with me in the work I do and decisions I make.
+<br>This class was rewarding and I was able to analyze a startup called Pangia Clothing, analyzing these issues. Once I finish the paper, I will upload it here. 
 
 
 
