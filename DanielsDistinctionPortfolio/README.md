@@ -58,6 +58,11 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 <br>
 <br>I demonstrated strong problem-solving skills by identifying outliers beyond the original project scope and adjusting my approach as needed. My ability to collaborate effectively with team members ensured buy-in for process improvments, distinguishing me from traditional consultants who often produce models without fostering integration. Additionally, I quickly grasped complex technical concepts and industry-specific terminology, showcasing a strong analytical mindset. My proactive communication kept stakeholders informed, and my adaptability allowed me to seamlessly shift gears when necessary. Overall, my professionalism, work ethic, and ability to balance independence with teamwork made a significant impact on the organization. 
 
+<a name="Insider LLC"></a>
+### Internship: Insider LLC New York City 
+<i> Summer 2023 </i>
+<br>
+<br> During my time at Insider LLC in New York City, I worked for a private concierge company that specialized in working with high profile clientel to deliver time-sensitive projects based on the clients needs and desires. I applied my knowledge from my Data Warehouse and Business Intelligence course to work with Salesforce databases, optimizing workflows and improving data managment efficiency. I customized the Salesforce database to enhance operational processes, ensuring streamlined access to critical client information. My role involved organizing and processing essential client documents, which facilitated better data strucuring and retrieval. By leveraging my experience in SQL and business intelligence, I contributed to refining the database structure, supporting reporting needs, and improving overall data integrity within the organization. This experience reinforced my technical skills and deepened my understanding of database managment in a business setting. It also strengthened my time managment skills as I had to deliver and present in a timely manner to the clients. 
 <details>
 <summary><i><b>See the projects I did!</b></i></summary>
     <br>
@@ -83,7 +88,7 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 <br>Strategic Metrics:</b> The Silhouette Collective data mart will provide strategic metrics on number of customers served, total revenue, average order amount, and customer retention rate. Tracking these metrics will help inform the company of their customer's behabior and preferences as well as the performance and efficiency of their services.
 
 <br>Business Questions to Answer:</b> 1. The CEO would like to know the total revenue of the company by month, quarter, and year. 2. The shopper manager would like to know the number of orders completed per month by each shopper. 3. The brand manager would like to know which brands are most popular by tracking the number of orders per month per brand. 4. The CEO would like to know if there is a special occasion or event that produces the most consistent number of orders or is it scattered. 5. The CEO would like to know the comparison between high value orders and low value orders and the quantity of orders associated with. 6. The CEO would like to know which regions of the country customer's are shooping from and how customer spending varies by region. These business requirement questions help different departments and managers within the company take insights from the data mart that can inform their decisions surrounding business strategies. 
-<i>Unmute video for narration</i>
+
 <br>
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](../DanielsDistinctionPortfolio/BackToRootsOLTP/#top)
 
