@@ -20,6 +20,8 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <a name="Personal Brand Statement"></a>
 ### Personal Brand Statement
 I combine analytic skills with artistic vision to deliver data-driven strategies for comapnies to empower their clientele with displays of their personal colors and style in a way that invites conversation.
+<a name="Passion for Fashion"></a>
+Fashion allows all the colors of people's lives to be broadcasted in a personal way. It also reinforces that first appearances are extremely important, but theydo not define the character behind it. The appearance is an invitation to learn more about the individual and understand more about the brain, heart, and soul behiind the external layer. Those parts are beautiful if given the chance to learn. Fashion allows me to be moody while maintaining my natural charisma and politeness. Fashion opens the window to the soul, and it has been something I've held onto since my grandmother introduced me to the terminology of elegance and class. Data Analytics in fashion is where my dream job resides. What items are not being bought within each type of style of clothing. For a business setting, what colors are honed and what products are returned? For a dress occasion, what styles were returned and why? What about these items made the customer feel their external layer did not match what they were feeling on the inside at the tiime? 
 
 
 <a name="DanielsDistinction"></a>
