@@ -17,6 +17,10 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <ul>
   <li><b>Hornbeck Scholar Award</b>: Fall 2024, I earned a place on the Hornbeck Scholars List for the Fall Quarter 2024- one of the highest academic honors at the Univeristy. Through this achievement, I have demonstrated my commitment to fulfilling the first student promise outlined in the University's strategic plan: The Promise of Reaching to the Highest Standard. I served as a model for all students and am a source of pride for the faculty, staff, and alumni. This award recognizes outstanding commitment to Daniels Undergraduate Programs.</li>
 
+<a name="Personal Brand Statement"></a>
+### Personal Brand Statement
+I combine analytic skills with artistic vision to deliver data-driven strategies for comapnies to empower their clientele with displays of their personal colors and style in a way that invites conversation.
+
 
 <a name="DanielsDistinction"></a>
 #### Daniels Distinction Portfolio
