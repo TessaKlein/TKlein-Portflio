@@ -52,7 +52,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
     <td>
      <ul>
         <li>SQL</li>
-        <li>Visual Basic</li>
+        <li>JMP</li>
         <li>Python</li>
         <li>R</li>
         <li>Advanced Excel</li>
@@ -80,11 +80,11 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
  <tr>
    <td>
      <ol>
-        <li>Learner</li>
+        <li>Active Learner</li>
         <li>Perserverance</li>
         <li>Grit</li>
         <li>Discipline</li>
-        <li>Intellection</li>
+        <li>Curiosity</li>
      </ol>
    </td>
    <td>
