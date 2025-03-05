@@ -114,6 +114,9 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 
 <br>
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](../DanielsDistinctionPortfolio/BackToRootsOLTP/#top)
+<br> Here is the PowerBI Dashboard I created for this project. 
+![image](https://github.com/user-attachments/assets/8c657986-2504-4659-a924-d0f7a1b707e5)
+
 
 
 
