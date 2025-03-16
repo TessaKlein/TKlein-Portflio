@@ -26,7 +26,7 @@ I combine analytic skills with artistic vision to deliver data-driven strategies
 ### Passion for Fashion
 Fashion is a powerful medium that allows individuals to express the vibrant colors of their lives in a deeply personal way. While first impressions are undeniably important, fashion reminds us that appearances are merely an invitation—a gateway to discovering the intellect, emotions, and soul that lie beneath the surface. These inner qualities are beautiful and meaningful if given the chance to be understood. For me, fashion is not only a form of self-expression but also a way to embrace my moods while maintaining a natural charisma and politeness. It is a window to the soul, a concept I have cherished since my grandmother introduced me to the timeless values of elegance and class.
 My passion lies in the intersection of fashion and data analytics, where I see endless opportunities to enhance the industry. I am fascinated by the insights data can provide—such as understanding which items within a particular style are not selling, identifying the colors and products that resonate in professional settings, and analyzing the reasons behind product returns. For example, in formalwear, what about certain styles or designs leads customers to feel a disconnect between their external appearance and their internal emotions? By answering these questions, we can bridge the gap between how people feel and how they present themselves, ensuring that fashion becomes a true reflection of their inner selves.
-![image](https://github.com/user-attachments/assets/d7262a09-61d7-4aec-90af-02415e12d804)
+
 
 
 
