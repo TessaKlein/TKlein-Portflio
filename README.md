@@ -33,6 +33,7 @@ My passion lies in the intersection of fashion and data analytics, where I see e
 <a name="DanielsDistinction"></a>
 #### Daniels Distinction Portfolio
 In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
+https://github.com/TessaKlein/TKlein-Portflio/tree/main/DanielsDistinctionPortfolio 
 
 
 
